@@ -1,1 +1,2 @@
-# Desafio-TypeScript
+# desafios_typescript
+Desafio Typescript Bootcamp Santander
